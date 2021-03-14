@@ -3,3 +3,5 @@
 <h3 align="center"><a href="https://osutracker.com" target="_blank" rel="noreferrer">osuTracker</a></h3>
 <h3 align="center"><a href="https://nzbasic.com" target="_blank" rel="noreferrer">Personal Website</a></h3>
 <h3 align="center"><a href="https://wiki.nzbasic.com" target="_blank" rel="noreferrer">App Documentation</a></h3>
+
+![](https://hit.yhype.me/github/profile?user_id=54062686)
